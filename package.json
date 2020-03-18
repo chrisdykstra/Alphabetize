@@ -1,0 +1,23 @@
+{
+  "name": "Alphabetize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdykstra/Alphabetize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdykstra/Alphabetize/issues"
+  },
+  "homepage": "https://github.com/chrisdykstra/Alphabetize#readme",
+  "dependencies": {
+    "electron": "^8.1.1"
+  }
+}
